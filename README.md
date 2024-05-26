@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupal Mandal</h1>
-<h3 align="center">MCA Student</h3>
+<h3 align="center">A Student of MCA</h3>
 
 - 📫 How to reach me **rupalmandal009@gmail.com**
 
