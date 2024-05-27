@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knox-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="knox-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knox-07&hide_total_contributions=true&layout=compact&theme=dark" alt="knox-07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knox-07&hide_total_contributions=false&layout=compact&theme=dark" alt="knox-07" /></p>
